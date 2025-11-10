@@ -1,4 +1,4 @@
-# DevOps Deployment Safety Toolkit  “Forked from the NBE-DevOps-Internship-2025 organization — includes my core contributions
+# DevOps Deployment Safety Toolkit  “Forked from the NBE-DevOps-Internship-2025 organization — includes my core contributions"
 
 Enterprise-grade tools for reliable deployments across any infrastructure. Validates resources, creates traceable backups, and maintains clean environments.
 
